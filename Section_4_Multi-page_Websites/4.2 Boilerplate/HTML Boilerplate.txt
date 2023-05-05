@@ -1,0 +1,15 @@
+<!DOCTYPE html> //version of the HTML
+<html lang = "en"> // the language that we intend to be our webpage
+	<head> // important information about the website that will help render our website but invisible for he eye for the user.
+		<meta charset = "something"> //eg. character set. The most common one is UTF-8
+		<title>Name of the Website</title> //name of the website that will appear on the tab.
+		//there can be more.
+	</head>
+
+	<body>
+		//content
+	</body>
+</html>
+
+
+SHORTCUT for your boilerplate in VS Code: '!' + enter
